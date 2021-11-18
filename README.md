@@ -19,5 +19,5 @@ De webpagina zal gehost worden op: http://localhost:4200
 
 ## Vragen of opmerkingen
 
-Voel je vrij bij vragen of opmerkingen mij te contacteren via: mailto:stijn.janssen@vijfhart.nl
+Voel je vrij bij vragen of opmerkingen mij te contacteren via: mailto:info@stijnjanssen.nl
 Mocht je wijzigingen willen opgeven, kun je uiteraard een pull & push request indienen.
