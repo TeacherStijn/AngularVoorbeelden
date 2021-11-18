@@ -2,7 +2,7 @@
 
 Deze respository bevat Angular (2+) oefeningen als losstaande projecten.
 
-Ook is er een `opdrachten.pdf` aanwezig die te doorlopen is indien je de Angular cursus via Vijfhart (5hart) hebt doorlopen.
+Ook is er een `opdrachten.pdf` aanwezig die te doorlopen is bij een Angular cursus.
 
 
 ## Gebruik voorbeeld projecten
